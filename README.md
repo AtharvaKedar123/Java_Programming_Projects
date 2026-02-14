@@ -68,9 +68,6 @@ Command-line Interface
 GitHub: https://github.com/<your-username>
 Email: <your-email@example.com>
 
-
-
-
 ---
 
 ## ⚙️ How to Run
