@@ -21,15 +21,14 @@ Welcome to my **Java Projects Portfolio**! This repository showcases various Jav
 
 ## 📂 Projects List
 
-| Project Name | Description | Key Features | Technologies |
-|--------------|-------------|--------------|--------------|
-| **Weather App** ![Weather](https://img.shields.io/badge/WeatherApp-Info-blue) | Fetches and displays real-time weather information for any city. | API integration, JSON parsing, CLI interface | Java, HTTP API, JSON |
-| **Check Password Validity** ![Password](https://img.shields.io/badge/CheckPassword-Secure-green) | Validates passwords based on strength and security rules. | Regex validation, user input handling | Java, Regex, OOP |
-| **Contact Management System** ![Contacts](https://img.shields.io/badge/Contacts-Manage-orange) | Manage contacts with add, edit, delete, and search functionalities. | File storage, CRUD operations, search functionality | Java, File I/O, OOP |
-| **Grocery Billing System** ![Billing](https://img.shields.io/badge/GroceryBilling-Bill-red) | Generates bills for grocery items with price calculation and discounts. | Item management, billing logic, file storage | Java, OOP, File I/O |
-| **Mini Search Engine** ![Search](https://img.shields.io/badge/MiniSearch-Engine-blueviolet) | Searches text files for keywords and displays results with ranking. | Indexing, text search, ranking | Java, File I/O, Algorithms |
-| **Smart Log Analyzer** ![Logs](https://img.shields.io/badge/SmartLog-Analyzer-yellow) | Analyzes log files to detect errors and summarize activity. | Log parsing, report generation, filtering | Java, File I/O, Regex |
-
+| Project Name | Description | Key Features | Technologies | Badges |
+|--------------|-------------|--------------|--------------|--------|
+| **Weather App** | Fetches and displays real-time weather information for any city. | API integration, JSON parsing, CLI interface | Java, HTTP API, JSON | ![Weather](https://img.shields.io/badge/WeatherApp-Info-blue) |
+| **Check Password Validity** | Validates passwords based on strength and security rules. | Regex validation, user input handling | Java, Regex, OOP | ![Password](https://img.shields.io/badge/CheckPassword-Secure-green) |
+| **Contact Management System** | Manage contacts with add, edit, delete, and search functionalities. | File storage, CRUD operations, search functionality | Java, File I/O, OOP | ![Contacts](https://img.shields.io/badge/Contacts-Manage-orange) |
+| **Grocery Billing System** | Generates bills for grocery items with price calculation and discounts. | Item management, billing logic, file storage | Java, OOP, File I/O | ![Billing](https://img.shields.io/badge/GroceryBilling-Bill-red) |
+| **Mini Search Engine** | Searches text files for keywords and displays results with ranking. | Indexing, text search, ranking | Java, File I/O, Algorithms | ![Search](https://img.shields.io/badge/MiniSearch-Engine-blueviolet) |
+| **Smart Log Analyzer** | Analyzes log files to detect errors and summarize activity. | Log parsing, report generation, filtering | Java, File I/O, Regex | ![Logs](https://img.shields.io/badge/SmartLog-Analyzer-yellow) |
 ---
 
 ## 🚀 Features
