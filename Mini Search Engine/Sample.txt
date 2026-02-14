@@ -1,0 +1,5 @@
+Java is a powerful programming language
+Python is popular for data science
+Java is used in backend development
+Search engines use indexing
+Learning Java improves problem solving

@@ -1,0 +1,6 @@
+2026-02-12 10:01:23 INFO User logged in IP=192.168.1.10
+2026-02-12 10:02:10 ERROR Database connection failed IP=192.168.1.12
+2026-02-12 10:02:45 WARNING Memory usage high IP=192.168.1.10
+2026-02-12 10:03:01 ERROR Database connection failed IP=192.168.1.12
+2026-02-12 10:04:22 ERROR Invalid password attempt IP=192.168.1.10
+2026-02-12 10:05:33 INFO File uploaded IP=192.168.1.15
