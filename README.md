@@ -64,9 +64,8 @@ Command-line Interface
 ---
 
 ## 📫 Connect With Me
-
-GitHub: https://github.com/<your-username>
-Email: <your-email@example.com>
+- GitHub:https://github.com/AtharvaKedar123
+- Email: atharva.dkedar@gmail.com
 
 ---
 
