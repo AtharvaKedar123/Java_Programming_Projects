@@ -21,15 +21,15 @@ Welcome to my **Java Projects Portfolio**! This repository showcases various Jav
 
 ## 📂 Projects List
 
-| Project Name | Description | Key Features | Technologies | Badges |
-|--------------|-------------|--------------|--------------|--------|
-| **Weather App** | Fetches and displays real-time weather information for any city. | API integration, JSON parsing, CLI interface | Java, HTTP API, JSON | ![Weather](https://img.shields.io/badge/WeatherApp-Info-blue) |
-| **Check Password Validity** | Validates passwords based on strength and security rules. | Regex validation, user input handling | Java, Regex, OOP | ![Password](https://img.shields.io/badge/CheckPassword-Secure-green) |
-| **Contact Management System** | Manage contacts with add, edit, delete, and search functionalities. | File storage, CRUD operations, search functionality | Java, File I/O, OOP | ![Contacts](https://img.shields.io/badge/Contacts-Manage-orange) |
-| **Grocery Billing System** | Generates bills for grocery items with price calculation and discounts. | Item management, billing logic, file storage | Java, OOP, File I/O | ![Billing](https://img.shields.io/badge/GroceryBilling-Bill-red) |
-| **Mini Search Engine** | Searches text files for keywords and displays results with ranking. | Indexing, text search, ranking | Java, File I/O, Algorithms | ![Search](https://img.shields.io/badge/MiniSearch-Engine-blueviolet) |
-| **Smart Log Analyzer** | Analyzes log files to detect errors and summarize activity. | Log parsing, report generation, filtering | Java, File I/O, Regex | ![Logs](https://img.shields.io/badge/SmartLog-Analyzer-yellow) |
----
+| Project Name | Description | Key Features | Technologies | Tech Badges |
+|--------------|-------------|--------------|--------------|-------------|
+| **Weather App** | Fetches and displays real-time weather information for any city. | API integration, JSON parsing, CLI interface | Java, HTTP API, JSON | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![HTTP API](https://img.shields.io/badge/HTTP_API-007ACC?style=flat-square) ![JSON](https://img.shields.io/badge/JSON-ff6f00?style=flat-square) |
+| **Check Password Validity** | Validates passwords based on strength and security rules. | Regex validation, user input handling | Java, Regex, OOP | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Regex](https://img.shields.io/badge/Regex-008000?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-Design-blue?style=flat-square) |
+| **Contact Management System** | Manage contacts with add, edit, delete, and search functionalities. | File storage, CRUD operations, search functionality | Java, File I/O, OOP | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![File I/O](https://img.shields.io/badge/File_IO-6CC24A?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-Design-blue?style=flat-square) |
+| **Grocery Billing System** | Generates bills for grocery items with price calculation and discounts. | Item management, billing logic, file storage | Java, OOP, File I/O | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-Design-blue?style=flat-square) ![File I/O](https://img.shields.io/badge/File_IO-6CC24A?style=flat-square) |
+| **Mini Search Engine** | Searches text files for keywords and displays results with ranking. | Indexing, text search, ranking | Java, File I/O, Algorithms | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![File I/O](https://img.shields.io/badge/File_IO-6CC24A?style=flat-square) ![Algorithms](https://img.shields.io/badge/Algorithms-ff69b4?style=flat-square) |
+| **Smart Log Analyzer** | Analyzes log files to detect errors and summarize activity. | Log parsing, report generation, filtering | Java, File I/O, Regex | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![File I/O](https://img.shields.io/badge/File_IO-6CC24A?style=flat-square) ![Regex](https://img.shields.io/badge/Regex-008000?style=flat-square) |
+
 
 ## 🚀 Features
 
