@@ -72,10 +72,9 @@ Command-line Interface
 ## ⚙️ How to Run
 
 Clone the repository:
+git clone https://github.com/AtharvaKedar123/java-projects-portfolio.git && cd java-projects-portfolio/<project-folder> && javac *.java && java Main
 
-```bash
-git clone https://github.com/AtharvaKedar123/java-projects-portfolio.git
-cd java-projects-portfolio/<project-folder>
-javac *.java
-java Main  # replace Main with the main class name
+- Replace <project-folder> with the folder name of the project (e.g., WeatherApp).
+- Replace Main with the main class containing public static void main(String[] args).
+- For projects using files or API, make sure required files exist or an internet connection/API key is available.
 
