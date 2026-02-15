@@ -74,5 +74,8 @@ Command-line Interface
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/java-projects-portfolio.git
-## 📖 Learning Outcomes
+git clone https://github.com/AtharvaKedar123/java-projects-portfolio.git
+cd java-projects-portfolio/<project-folder>
+javac *.java
+java Main  # replace Main with the main class name
+
